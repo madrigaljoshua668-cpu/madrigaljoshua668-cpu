@@ -19,4 +19,4 @@
 
 <h1> Estadísticas</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madrigaljoshua668-cpu&theme=buefy-dark&hide_border=falso&short_numbers=falso&card_width=570&card_height=290)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madrigaljoshua668-cpu&theme=dracula&hide_border=falso&short_numbers=falso&card_width=570&card_height=290)](https://git.io/streak-stats)
