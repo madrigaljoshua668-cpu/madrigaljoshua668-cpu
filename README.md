@@ -20,4 +20,4 @@
 <h1> Estadísticas</h1>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshua%20Madrigal&theme=dracula&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Joshua%20Madrigal&theme=dracula&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
