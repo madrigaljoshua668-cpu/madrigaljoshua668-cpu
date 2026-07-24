@@ -4,7 +4,10 @@
 
 
 
-<h3 align="center">Un apasionado de la ciberseguridad de Costa Rica</h3>
+<h3 align="center"> ciberseguridad </h3>
+
+<h3 align="center">  CR     </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuamrgl&label=Profile%20views&color=0e75b6&style=flat" alt="joshuamrgl" /> </p>
 
