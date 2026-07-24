@@ -1,6 +1,9 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=MRGL;Engineering+Systems+Student)
+[
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&lines=MRGL;Systems+Engineering+Student)
+
+](https://git.io/typing-svg)
 
 
 
